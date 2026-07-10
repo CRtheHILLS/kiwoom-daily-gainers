@@ -1,0 +1,9 @@
+# Python 3.8 (32-bit) — required by the Kiwoom OpenAPI+ OCX control
+pykiwoom==0.1.6
+PyQt5==5.15.*
+pandas
+requests
+beautifulsoup4
+python-dotenv
+# optional — only if you use the Notion export
+notion-client
